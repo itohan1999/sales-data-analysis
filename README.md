@@ -1,9 +1,9 @@
 # sales-data-analysis
 Data analysis project using Excel, SQL, Power BI, and Tableau
 ## project overview
-This projects analyzes sales data to identify trends, top performingproducts, and regionalperformance.
+This projects analyzes sales data to identify trends, top performing products, and regionalperformance.
 ## Key Insights
--- The highest sales came from the west region
+-- The highest sales came from the West region
 -- Technology products generated the most revenue
 -- profit margin varied significantlty across categories
 ## Files Included
